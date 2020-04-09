@@ -3,8 +3,8 @@
     {
       "type": "launcher",
       "title": "Snake",
-      "file": "https://raw.githubusercontent.com/clockworkpi/warehouse/master/2019%20GAME%20JAM//AGENT%20OF%20SHINIGAMI/file/AGENT%20OF%20SHINIGAMI.tar.gz",
-      "shots": "https://raw.githubusercontent.com/clockworkpi/warehouse/master/2019%20GAME%20JAM//AGENT%20OF%20SHINIGAMI/shots/AGENT%20OF%20SHINIGAMI.png"
+      "file": "https://github.com/madinina95/warehouse/raw/master/Snake/file/Snake.tar.gz",
+      "shots": "https://github.com/madinina95/warehouse/raw/master/Snake/shots/Snake.png"
     }
   ]
 }
