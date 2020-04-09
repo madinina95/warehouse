@@ -3,8 +3,8 @@
     {
       "type": "launcher",
       "title": "Snake",
-      "file": "raw.githubusercontent.com/madinina95/warehouse/master/Snake/file/Snake.tar.gz",
-      "shots": "raw.githubusercontent.com/madinina95/warehouse/master/Snake/shots/Snake.png"
+      "file": "https://raw.githubusercontent.com/madinina95/warehouse/master/Snake/file/Snake.tar.gz",
+      "shots": "https://raw.githubusercontent.com/madinina95/warehouse/master/Snake/shots/Snake.png"
     }
   ]
 }
